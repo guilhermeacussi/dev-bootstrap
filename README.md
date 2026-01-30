@@ -1,8 +1,3 @@
-Perfeito. Aqui vai um **README.md** pronto, organizado e com cara de projeto profissional 👇
-É só copiar e colar no repositório **dev-bootstrap**.
-
----
-
 # 🚀 dev-bootstrap
 
 Scripts de **bootstrap de ambiente de desenvolvimento** para Linux e Windows, focados em rapidez, praticidade e padronização.
